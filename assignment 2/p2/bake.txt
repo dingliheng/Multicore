@@ -1,0 +1,4 @@
+#!/bin/sh
+
+javac *.java
+java Main bakery 8 1200000
